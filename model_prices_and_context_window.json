@@ -16,7 +16,7 @@
     "meta-llama/CodeLlama-13b-Instruct-hf": {
         "input_cost_per_token": 0.0000005,
         "output_cost_per_token": 0.00000072,
-        "litellm_provider": "llama",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
@@ -24,7 +24,7 @@
     "meta-llama/Meta-Llama-3.1-405B-Instruct-FP8": {
         "input_cost_per_token": 0.00000165,
         "output_cost_per_token": 0.00000193,
-        "litellm_provider": "llama",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
@@ -32,7 +32,7 @@
     "meta-llama/Meta-Llama-3.1-70B-Instruct": {
         "input_cost_per_token": 0.00000165,
         "output_cost_per_token": 0.00000193,
-        "litellm_provider": "llama",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
@@ -40,7 +40,7 @@
     "meta-llama/Meta-Llama-3.1-8B-Instruct": {
         "input_cost_per_token": 0.00000017,
         "output_cost_per_token": 0.00000028,
-        "litellm_provider": "llama",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
@@ -48,7 +48,7 @@
       "mistralai/Mistral-7B-Instruct-v0.3": {
         "input_cost_per_token": 0.00000017,
         "output_cost_per_token": 0.00000028,
-        "litellm_provider": "mistral",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
@@ -56,7 +56,7 @@
       "mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "input_cost_per_token": 0.0000005,
         "output_cost_per_token": 0.00000072,
-        "litellm_provider": "mistral",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
