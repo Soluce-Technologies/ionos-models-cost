@@ -14,12 +14,9 @@
         "supports_prompt_caching": true
     },
     "meta-llama/Meta-Llama-3.1-70B-Instruct": {
-        "max_tokens": 4096, 
-        "max_input_tokens": 8192,
-        "max_output_tokens": 4096, 
         "input_cost_per_token": 0.00003,
         "output_cost_per_token": 0.00006,
-        "litellm_provider": "openai",
+        "litellm_provider": "ionos",
         "mode": "chat",
         "supports_function_calling": true,
         "supports_prompt_caching": true
